@@ -1,0 +1,22 @@
+site_name: 8/3 Regulator System
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Ontology:
+      - Axiom 0: 01_ontology/axiom_0.md
+  - Axioms:
+      - Axioms P1–P5: 02_axioms/axioms_P1_P5.md
+      - Startna Teorema: 02_axioms/startna_teorema.md
+  - Core:
+      - Rational Palindrome: 03_core/rational_palindrome.md
+      - Octahedral Regulator: 03_core/octahedral_regulator.md
+  - Geometry:
+      - Octahedron: 04_geometry/octahedron.md
+      - 24-cell: 04_geometry/24_cell.md
+      - F4: 04_geometry/F4.md
+      - E8: 04_geometry/E8.md
+  - Regulator Chain:
+      - Overview: 05_regulator_chain/regulator_chain.md
+      - E8 Regulator: 05_regulator_chain/E8_regulator.md
