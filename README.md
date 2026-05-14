@@ -1,9 +1,7 @@
 # 8/3 Regulator System
 
-This repository contains a modular mathematical framework that derives the full symmetry chain
+This repository contains a modular mathematical framework that derives the symmetry chain  
+O₃ → 24‑cell → F₄ → E₈  
+from the rational invariant 8/3.
 
-O₃ → 24-cell → F₄ → E₈
-
-from a single rational invariant: 8/3.
-
-The project is organized as a documentation-first structure using MkDocs + Material.
+Documentation is located in the `/docs` directory and is built using MkDocs + Material.
